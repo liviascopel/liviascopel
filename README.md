@@ -1,6 +1,6 @@
 ## Hi there 👋
-I'm an Computer Science undergraduate at Universidade Federal do Espirito Santo.
-Currently working as Backend Developer and QA.
+I'm an Computer Science undergraduate at Federal University of Espirito Santo.
+Currently working as FullStack Developer.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Livia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
